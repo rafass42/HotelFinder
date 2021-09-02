@@ -4,4 +4,4 @@
 ### `npm start`
 
 # **Imagem**
-|![](https://imgur.com/4ChjdIB)|
+|![](https://i.imgur.com/4ChjdIB.png)|
